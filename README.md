@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Kumar
 - 👀 I’m interested in Web & Mobile App Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Next JS and TailwindCSS
 - 💞️ I’m looking to collaborate on App Development Projects
 - 📫 How to reach me - rohitkumar990026@gmail.com
 
