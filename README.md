@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs and TailwindCSS**
 
-- 💬 Ask me about **ReactJS
-- , NextJS, React Native**
+- 💬 Ask me about **ReactJS, NextJS, React Native**
 
 - 📫 How to reach me **rohitkumar.mail44@gmail.com**
 
