@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">A passionate frontend developer from India 💙.</h3>
+<h3 align="center">A passionate Software Developer Engineer from India 💙.</h3>
 
 - 🌱 I’m currently learning **NextJs and TailwindCSS**
 
